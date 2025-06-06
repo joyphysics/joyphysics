@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joydeep Majhi
 
-🎓 PhD in Theoretical Condensed Matter Physics | 🧪 Postdoc @ IIT Bombay | quantum simulations, stochastic modeling, and machine learning
+🎓 PhD in Theoretical Condensed Matter Physics | 🧪 Postdoc @ IIT Bombay 
 
 
 🔭 I specialize in:
