@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joydeep Majhi
 
-🎓 PhD in Theoretical Condensed Matter Physics | 🧑‍🎓 ISI, Kolkata | 🧪 Postdoc @ IIT Bombay 
+🎓 PhD in Theoretical Condensed Matter Physics @ ISI, Kolkata | 🧪 Postdoc @ IIT Bombay 
 
 
 🔭 Specialize in:
