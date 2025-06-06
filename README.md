@@ -1,4 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Joydeep Majhi
+
+🎓 PhD in Physics | 🧪 Postdoc @ IIT Bombay 
+
+🔭 I specialize in:
+- Quantum transport simulations (NEGF, DFT)
+- Machine learning & time series analysis
+- Financial modeling & option pricing
+
+📂 **Featured Projects**:
+- 🔌 [TransEP](https://github.com/joyphysics/TransEP): Quantum transport package (NEGF)
+- 📊 [ML & Data Science](https://github.com/joyphysics/ML-and-Data-science-Projects)
+- 💸 [Quant Finance](https://github.com/joyphysics/Quantitative-Finance-projects)
+
+🛠️ **Tech Stack**:
+`Python` `C++` `SQL` `TensorFlow` `Matplotlib` `Git`  
+`NEGF` `Monte Carlo` `ARIMA` `Black-Scholes` `VASP`
+
+📫 **Reach me**:
+- Email: joydeepmjh@gmail.com
+- [LinkedIn](https://linkedin.com/in/joydeepmajhi)
+- [Google Scholar](https://scholar.google.com/citations?user=YxH2rZcAAAAJ&hl=en)
 
 <!--
 **joyphysics/joyphysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
