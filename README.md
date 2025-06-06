@@ -3,8 +3,9 @@
 🎓 PhD in Theoretical Condensed Matter Physics | 🧪 Postdoc @ IIT Bombay 
 
 
-🔭 I specialize in:
-- Quantum transport simulations (NEGF, DFT)
+🔭 Specialize in:
+- Quantum transport simulations (NEGF, TB)
+- Ground state, Magnetic and Thermodynamic properties of Materials (DFT, Monte-Carlo)
 - Machine learning & time series analysis
 - Financial modeling & option pricing
 
